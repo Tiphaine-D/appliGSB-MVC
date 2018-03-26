@@ -1,6 +1,6 @@
 <?php
 /**
- * Menu déroulant pour choisir le visiteur et le mois
+ * Vue pour choisir de modifier ou valider une fiche de frais
  *
  * PHP Version 7
  *

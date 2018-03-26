@@ -1,6 +1,6 @@
 <?php
 /**
- * Vue validation modification nombre de justificatifs
+ * Vue validation de la modification du nombre de justificatifs
  *
  * PHP Version 7
  *

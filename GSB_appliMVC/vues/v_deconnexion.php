@@ -1,13 +1,13 @@
 <?php
 /**
- * Vue D�connexion
+ * Vue Déconnexion
  *
  * PHP Version 7
  *
  * @category  PPE
  * @package   GSB
  * @author    R�seau CERTA <contact@reseaucerta.org>
- * @author    Jos� GIL <jgil@ac-nice.fr>
+ * @author    José GIL <jgil@ac-nice.fr>
  * @copyright 2017 Réseau CERTA
  * @license   Réseau CERTA
  * @version   GIT: <0>
